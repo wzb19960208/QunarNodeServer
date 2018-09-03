@@ -1,0 +1,21 @@
+{
+  "ret":true,
+  "data":{
+    "banner":{
+      "title":"南京海底世界",
+      "number": 12,
+      "cover" : "//img1.qunarzz.com/sight/p0/1411/13/0cd5a9a57ae0d1b9b935ec604ce0f9bf.water.jpg_600x330_d6101489.jpg"
+    },
+    "header": "南京海底世界",
+    "sell":[{
+      "titleText":"门票",
+      "sellText":"海底世界门票",
+      "price":"145",
+      "list":[
+        "海底世界成人票",
+        "海底世界儿童票",
+        "海底世界学生票"
+      ]
+    }]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ret" : true,
+  "data":{
+    "city":"北京",
+    "swiperList" : [
+      { "id": "01",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/59/0f1081cd8d155702.jpg_750x200_b78fcf48.jpg"
+      },
+      { "id":"02",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/26/16b22c607cdddb02.png_750x200_965508d9.png "
+      },
+      { "id":"03",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1808/57/d3a8edda0e968402.jpg_750x200_65f02b29.jpg"
+      }
+    ],
+    "iconList":[
+      { "id":"1","imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png","text":"景点门票"},
+      {"id":"2","imgUrl":"http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png","text":"三亚必游"},
+      {"id":"3","imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png","text":"两江夜游"},
+      {"id":"4","imgUrl":"http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png","text":"一日游"},
+      {"id":"5","imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png","text":"夏日玩水"},
+      {"id":"6","imgUrl":"http://img1.qunarzz.com/piao/fusion/1804/95/8d02011d149bdb02.png","text":"汽车票"},
+      {"id":"7","imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png","text":"海上三亚"},
+      {"id":"8","imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png","text":"水上乐园"}
+    ],
+    "recommendList":[
+      {"id":"1","imgUrl":"http://img1.qunarzz.com/sight/p0/1707/c7/c7f3baa7a5094e3ca3.img.jpg_200x200_1e7123ce.jpg","title":"三亚海上观光巴士","desc":"三亚海上观光巴士","price":"90"},
+      {"id":"2","imgUrl":"http://img1.qunarzz.com/sight/p0/1412/e9/d5c72454d47eda983bd4e857c9c361d8.water.jpg_200x200_5870d2ca.jpg","title":"分界洲岛","desc":"分界洲岛","price":"118"},
+      {"id":"3","imgUrl":"http://img1.qunarzz.com/wugc/p189/201206/12/a3ace34bc010041193835fbb.jpg_200x200_84bd8f96.jpg","title":"南山文化旅游区","desc":"南山文化旅游区","price":"115"},
+      {"id":"4","imgUrl":"http://img1.qunarzz.com/sight/p0/1702/e1/e10c8c5bec0c8e02a3.img.png_200x200_efcaf78c.png","title":"亚龙湾热带天堂森林公园","desc":"亚龙湾热带天堂森林公园","price":"135"},
+      {"id":"5","imgUrl":"http://img1.qunarzz.com/sight/p0/1412/43/1217ccf8106bca9a077b58bf56bb2598.water.jpg_200x200_318d0773.jpg","title":"三亚宋城千古情景区","desc":"三亚宋城千古情景区","price":"280"},
+      {"id":"6","imgUrl":"http://img1.qunarzz.com/sight/p0/1411/d8/eec44461ecfd83df9c1669e7846b1c53.water.jpg_200x200_c2941eec.jpg","title":"蜈支洲岛","desc":"蜈支洲岛","price":"150"}
+    ],
+    "weekendList":[
+      {"id":"1","imgUrl":"http://img1.qunarzz.com/sight/source/1505/5e/6e13db8af6ec30.jpg_r_640x214_5c1b0fa9.jpg","title":"三亚必游TOP10","desc":"玩转海岛热带雨林，感受独特黎苗文化"},
+      {"id":"2","imgUrl":"http://img1.qunarzz.com/sight/source/1505/a4/df8543b6b8506d.jpg_r_640x214_660e1e3a.jpg","title":"就是要看海","desc":"海上摩托，拖曳伞什么的爽歪歪了"},
+      {"id":"3","imgUrl":"http://img1.qunarzz.com/sight/source/1505/3d/f99f5c73b52c4d.jpg_r_640x214_4e60b24c.jpg","title":"寻找最佳潜水地","desc":"潜入梦幻海底，看鱼儿穿梭"},
+      {"id":"4","imgUrl":"http://img1.qunarzz.com/sight/source/1602/bf/a2ac57b8bfe7cd.jpg_r_640x214_406d4c7e.jpg","title":"城会玩儿游艇大趴","desc":"酷炫游艇派对，私人订制心跳回忆"},
+      {"id":"5","imgUrl":"http://img1.qunarzz.com/sight/source/1505/3e/a588a413145dbe.jpg_r_640x214_b3729b6e.jpg","title":"小清新帆船出海","desc":"帆船出海体验，不一样的海上休闲"}
+    ]
+  }
+}
+
