@@ -10,4 +10,4 @@ app.use('/',express.static(path.join(__dirname,'..','dist')));
 //     res.send('hello');
 // });
 
-const server = app.listen(80);
+const server = app.listen(50000);
